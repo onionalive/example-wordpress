@@ -1,0 +1,6 @@
+/*!
+ * Theme Name: example
+ * Description:  Wordpress theme
+ * Version: 1.0.0
+ * Author: Stephen R.
+ */
